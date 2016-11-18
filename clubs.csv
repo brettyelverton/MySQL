@@ -1,0 +1,40 @@
+id,name,type
+BAND,Spirit Support (Band),Support
+BOXX,Boxing (Men),Competitive
+CCCT,Cadet Competitive Cyber Team,Academic
+CLIM,Climbing (Mountaneering),Competitive
+CREW,Crew,Competitive
+CYCL,Cycling,Competitive
+DEBT,Debate (Debatre Forum),Academic
+DRIL,Drill,Military
+FENC,Fencing,Competitive
+GLEE,Glee Club,Support
+HOWZ,Howitzer,Support
+IHOK,Hockey Club (IHOK),Hobby
+JUDO ,Judo,Competitive
+JUMP,Parachute,Support
+KART,Mixed Martial Arts (Karate),Hobby
+LIFT,Powerlifting,Competitive
+MAPO,Orienteering,Competitive
+MULE,Spirit Support (Mule Riders),Support
+PIPD,Pipes & Drums,Support
+PONY,Equestrian,Competitive
+PSTL,Pistol,Military
+RABL,Rabble Rousers,Support
+RALY,Spirits Support (Rally Cannoneers),Support
+RBAL,Racquetball,Hobby
+RUNN,Marathon,Competitive
+SAIL,Sailing,Hobby
+SCUB,Scuba,Hobby
+SKIA,Snow Sports (Alpine Skiing),Hobby
+SKII,Snow Support (Ski Intrsuctors),Support
+SKIP,Snow Support (Ski Patrol),Support
+STAF,Staff and Ushers (Theater Arts Guild),Support
+THBM,Team Handball (Men),Competitive
+THBW,Team Handball (Women),Competitive
+TRIT,Triatholon,Competitive
+TYKD,Mixed Martial Arts (Tae Kwan Do),Hobby
+VOLY,Volleyball (Men),Competitive
+WBOX,Boxing (Women),Competitive
+WKDT,WKDT Radio Station,Support
+WPOL,Water Polo,Competitive
